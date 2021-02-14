@@ -8,7 +8,7 @@
 </a><br />
 
 <br />
-Hi! I am a Full Stack Web Development student who has found her passion and is ready to give everything that is needed to become a professional developer. I am also a professional and creative copywriter with SEO knowledge.
+Hi! I am a Full Stack Web Development student who has found her passion and is ready to give everything that is needed to become a professional developer. I am also a creative copywriter with SEO knowledge.
 
 <h2>Quick Facts</h2>
 
