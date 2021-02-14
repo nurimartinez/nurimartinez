@@ -5,7 +5,7 @@
 </a>
 <a href="https://www.instagram.com/wandernur/">
   <img align="left" alt="Nuria Martínez Instagram" width="22px" src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png" />
-</a>
+</a><br />
 
 <br />
 Hi! I am a Full Stack Web Development student who has found her passion and is ready to give everything that is needed to become a professional developer. I am also a professional and creative copywriter with SEO knowledge.
