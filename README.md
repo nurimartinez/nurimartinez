@@ -17,7 +17,6 @@ Hi! I am a Full Stack Web Development student who has found her passion and is r
 - 👯 I’m looking to find a job on **Web Development**
 - 💬 Ask me about **anything, I am happy to help**
 - 📫 How to reach me: **nuria.martinezro@gmail.com**
-- 🥅 2021 Goals: Learn **Python and PHP**
 - ⚡ Fun fact: I lived in a favela in **Rio de Janeiro (Brazil)**
 - 📝 Check my resume: **[Resume](https://www.canva.com/design/DAET4JtkgmE/YAjDTfnPJYVNEaQcFPnpNQ/view?utm_content=DAET4JtkgmE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
 
