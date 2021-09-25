@@ -18,7 +18,7 @@ Hi! I am a Full Stack Web Development student who has found her passion and is r
 - 💬 Ask me about **anything, I am happy to help**
 - 📫 How to reach me: **nuria.martinezro@gmail.com**
 - ⚡ Fun fact: I lived in a favela in **Rio de Janeiro (Brazil)**
-- 📝 Check my resume: **[Resume](https://www.canva.com/design/DAET4JtkgmE/YAjDTfnPJYVNEaQcFPnpNQ/view?utm_content=DAET4JtkgmE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
+- 📝 Check my resume: **[Resume](https://www.canva.com/design/DAET4JtkgmE/YAjDTfnPJYVNEaQcFPnpNQ/view?utm_content=DAET4JtkgmE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)**
 
 <h2>Languages and Tools</h2>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
