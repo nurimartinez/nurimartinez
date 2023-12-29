@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Nuria Martínez
 
 <a href="https://www.linkedin.com/in/nuriamartinezrodrigo/">
-  <img align="left" alt="Nuria Martínez LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Nuria Martínez LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/100px-LinkedIn_logo_initials.png" />
 </a>
 <a href="https://www.instagram.com/wandernur/">
   <img align="left" alt="Nuria Martínez Instagram" width="22px" src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png" />
