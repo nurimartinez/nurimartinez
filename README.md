@@ -1,10 +1,10 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Nuria Martínez
 
 <a href="https://www.linkedin.com/in/nuriamartinezrodrigo/">
-  <img align="left" alt="Nuria Martínez LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/100px-LinkedIn_logo_initials.png" />
+  <img align="left" alt="Nuria Martínez LinkedIN" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/100px-LinkedIn_logo_initials.png" />
 </a>
 <a href="https://www.instagram.com/wandernur/">
-  <img align="left" alt="Nuria Martínez Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/120px-Instagram_logo_2016.svg.png?20210403190622" />
+  <img align="left" alt="Nuria Martínez Instagram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/120px-Instagram_logo_2016.svg.png?20210403190622" />
 </a><br />
 
 <br />
