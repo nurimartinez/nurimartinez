@@ -4,7 +4,7 @@
   <img align="left" alt="Nuria Martínez LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/100px-LinkedIn_logo_initials.png" />
 </a>
 <a href="https://www.instagram.com/wandernur/">
-  <img align="left" alt="Nuria Martínez Instagram" width="22px" src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/120px-Instagram_logo_2016.svg.png?20210403190622" />
+  <img align="left" alt="Nuria Martínez Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/120px-Instagram_logo_2016.svg.png?20210403190622" />
 </a><br />
 
 <br />
